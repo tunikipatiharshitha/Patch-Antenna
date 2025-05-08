@@ -1,8 +1,8 @@
 # Patch-Antenna
-This project is "Design of an Eight-shaped Patch Antenna using Ansys HFSS"
-**Software used**
-Ansys HFSS
-**Description**
+This project is "Design of an Eight-shaped Patch Antenna using Ansys HFSS"\n
+**Software used**\n
+Ansys HFSS\n
+**Description**\n
 It is an Eight-shaped patch antenna, with patch dimensions 20mm x 30mm,with the 
 thickness of 1.6mm, using FR-4 epoxy substrate with relative permittivity εr=4.4. The 
 Eight-shaped patch is modified using a circular slot in the middle and two small 
